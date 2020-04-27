@@ -9,7 +9,13 @@
   },
   "dependencies": {
     "core-js": "^3.6.4",
-    "vue": "^2.6.11"
+    "jquery": "^3.5.0",
+    "less-loader": "^6.0.0",
+    "lodash": "^4.17.15",
+    "swiper": "^5.3.8",
+    "vue": "^2.6.11",
+    "vue-awesome-swiper": "^4.1.1",
+    "vue-infinite-scroll": "^2.0.2"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^4.3.0",

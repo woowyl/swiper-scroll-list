@@ -27,3 +27,8 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+## todolist
+
+- 如何添加带有 attr属性的 script标签 eg: data-rem
