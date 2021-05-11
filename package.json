@@ -11,7 +11,7 @@
     "core-js": "^3.6.4",
     "jquery": "^3.5.0",
     "less-loader": "^6.0.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "swiper": "^5.3.8",
     "vue": "^2.6.11",
     "vue-awesome-swiper": "^4.1.1",
